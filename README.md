@@ -1,2 +1,2 @@
 This line was added remotely from GitHub.
-Remote edit 2
+Remote edit 2.
